@@ -1,1 +1,0 @@
-[(Gerard) A simple demonstration of Emotion Recognition through EEG Signals_260202.pdf](https://github.com/user-attachments/files/25004015/Gerard.A.simple.demonstration.of.Emotion.Recognition.through.EEG.Signals_260202.pdf)
